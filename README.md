@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://minh-ly-portfolio.netlify.app/](https://minh-ly-portfolio.netlify.app/)
 
-- 💬 Ask me about **React, Redux, API calls**
+- 💬 Ask me about **React, Redux, Node.JS, Next.JS, Vue.JS**
 
 - 📫 How to reach me **lytranbaominh.hrs@gmail.com**
 
