@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/minh2407" target="blank"><img src="https://img.shields.io/twitter/follow/minh2407?logo=twitter&style=for-the-badge" alt="minh2407" /></a> </p>
 
-- 🔭 I’m currently working on **Pizza Delivery App**
+- 🔭 I’m currently working on **My Master Degree in Machine Learning & AI**
 
 - 👨‍💻 All of my projects are available at [https://minh-ly-portfolio.netlify.app/](https://minh-ly-portfolio.netlify.app/)
 
