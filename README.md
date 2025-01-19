@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **My Master Degree in Machine Learning & AI**
 
-- 👨‍💻 All of my projects are available at [https://minh-ly-portfolio.netlify.app/](https://minh-ly-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [[https://minh-ly-portfolio.netlify.app/](https://minhporfolio.netlify.app/)])
 
 - 💬 Ask me about **React, Redux, Node.JS, Next.JS, Vue.JS**
 
